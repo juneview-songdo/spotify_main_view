@@ -3,7 +3,7 @@ description: "Spotify Main View."
 #publish_to: 'none'
 repository: https://github.com/juneview-songdo/spotify_main_view
 
-version: 1.0.2
+version: 1.0.3
 
 environment:
   sdk: '>=3.3.1 <4.0.0'

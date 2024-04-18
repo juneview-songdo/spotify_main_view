@@ -80,7 +80,7 @@ class HomeViewState extends State<HomeView> with StateMother {
                           ),
                           SongCoverView(
                             coverImage:
-                                'https://encrypted-tbn0.gstatictps://encrypted-tbn0.gstatic.com/images?q=tb.com/images?q=tbn%3AANd9GcSuf7y7ZaiIH4hOdjknWtigAIixaQnpCI66xQ&usqp=CAU',
+                                'https://qph.fs.quoracdn.net/main-qimg-11ef692748351829b4629683eff21100.webp',
                             caption: 'Evergreen Tamil hits',
                             height: 150,
                             width: 130,
@@ -154,7 +154,7 @@ class HomeViewState extends State<HomeView> with StateMother {
                         ),
                         SongCoverView(
                           coverImage:
-                              'https://encrypted-tbn0.gstatictps://encrypted-tbn0.gstatic.com/images?q=tb.com/images?q=tbn%3AANd9GcSuf7y7ZaiIH4hOdjknWtigAIixaQnpCI66xQ&usqp=CAU',
+                              'https://qph.fs.quoracdn.net/main-qimg-11ef692748351829b4629683eff21100.webp',
                           caption: 'Levi 3',
                           width: 180.0,
                           height: 220.0,
@@ -235,7 +235,7 @@ class HomeViewState extends State<HomeView> with StateMother {
                         ),
                         SongCoverView(
                           coverImage:
-                              'https://encrypted-tbn0.gstatictps://encrypted-tbn0.gstatic.com/images?q=tb.com/images?q=tbn%3AANd9GcSuf7y7ZaiIH4hOdjknWtigAIixaQnpCI66xQ&usqp=CAU',
+                              'https://qph.fs.quoracdn.net/main-qimg-11ef692748351829b4629683eff21100.webp',
                           caption: 'Depavalli kondatam Covers',
                           width: 180.0,
                           height: 220.0,
@@ -317,7 +317,7 @@ class HomeViewState extends State<HomeView> with StateMother {
                         ),
                         SongCoverView(
                           coverImage:
-                              'https://encrypted-tbn0.gstatictps://encrypted-tbn0.gstatic.com/images?q=tb.com/images?q=tbn%3AANd9GcSuf7y7ZaiIH4hOdjknWtigAIixaQnpCI66xQ&usqp=CAU',
+                              'https://qph.fs.quoracdn.net/main-qimg-11ef692748351829b4629683eff21100.webp',
                           caption: 'Levi 3',
                           width: 180.0,
                           height: 220.0,
@@ -406,7 +406,7 @@ class HomeViewState extends State<HomeView> with StateMother {
                         ),
                         SongCoverView(
                           coverImage:
-                              'https://encrypted-tbn0.gstatictps://encrypted-tbn0.gstatic.com/images?q=tb.com/images?q=tbn%3AANd9GcSuf7y7ZaiIH4hOdjknWtigAIixaQnpCI66xQ&usqp=CAU',
+                              'https://qph.fs.quoracdn.net/main-qimg-11ef692748351829b4629683eff21100.webp',
                           caption: 'Evergreen Tamil hits',
                           width: 180.0,
                           height: 220.0,
@@ -481,7 +481,7 @@ class HomeViewState extends State<HomeView> with StateMother {
                         ),
                         SongCoverView(
                           coverImage:
-                              'https://encrypted-tbn0.gstatictps://encrypted-tbn0.gstatic.com/images?q=tb.com/images?q=tbn%3AANd9GcSuf7y7ZaiIH4hOdjknWtigAIixaQnpCI66xQ&usqp=CAU',
+                              'https://qph.fs.quoracdn.net/main-qimg-11ef692748351829b4629683eff21100.webp',
                           caption: 'Levi 3',
                           width: 180.0,
                           height: 220.0,
@@ -652,7 +652,7 @@ class HomeViewState extends State<HomeView> with StateMother {
                         ),
                         SongCoverView(
                           coverImage:
-                              'https://encrypted-tbn0.gstatictps://encrypted-tbn0.gstatic.com/images?q=tb.com/images?q=tbn%3AANd9GcSuf7y7ZaiIH4hOdjknWtigAIixaQnpCI66xQ&usqp=CAU',
+                              'https://qph.fs.quoracdn.net/main-qimg-11ef692748351829b4629683eff21100.webp',
                           caption: 'Evergreen Tamil hits',
                           width: 180.0,
                           height: 220.0,
