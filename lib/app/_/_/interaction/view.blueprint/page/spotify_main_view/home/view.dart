@@ -80,7 +80,7 @@ class HomeViewState extends State<HomeView> with StateMother {
                           ),
                           SongCoverView(
                             coverImage:
-                                'https://i.pinimg.com/736x/7f/d0/62/7fd062088d057e7469a37b81aa56f619.jpg',
+                                'https://encrypted-tbn0.gstatictps://encrypted-tbn0.gstatic.com/images?q=tb.com/images?q=tbn%3AANd9GcSuf7y7ZaiIH4hOdjknWtigAIixaQnpCI66xQ&usqp=CAU',
                             caption: 'Evergreen Tamil hits',
                             height: 150,
                             width: 130,
@@ -154,7 +154,7 @@ class HomeViewState extends State<HomeView> with StateMother {
                         ),
                         SongCoverView(
                           coverImage:
-                              'https://i.gadgets360cdn.com/large/spotify_logo_1585741714525.jpg',
+                              'https://encrypted-tbn0.gstatictps://encrypted-tbn0.gstatic.com/images?q=tb.com/images?q=tbn%3AANd9GcSuf7y7ZaiIH4hOdjknWtigAIixaQnpCI66xQ&usqp=CAU',
                           caption: 'Levi 3',
                           width: 180.0,
                           height: 220.0,
@@ -235,7 +235,7 @@ class HomeViewState extends State<HomeView> with StateMother {
                         ),
                         SongCoverView(
                           coverImage:
-                              'https://economictimes.indiatimes.com/thumb/msid-77237996,width-1200,height-900,resizemode-4,imgsize-34723/untitled-4.jpg?from=mdr',
+                              'https://encrypted-tbn0.gstatictps://encrypted-tbn0.gstatic.com/images?q=tb.com/images?q=tbn%3AANd9GcSuf7y7ZaiIH4hOdjknWtigAIixaQnpCI66xQ&usqp=CAU',
                           caption: 'Depavalli kondatam Covers',
                           width: 180.0,
                           height: 220.0,
@@ -317,7 +317,7 @@ class HomeViewState extends State<HomeView> with StateMother {
                         ),
                         SongCoverView(
                           coverImage:
-                              'https://i.gadgets360cdn.com/large/spotify_logo_1585741714525.jpg',
+                              'https://encrypted-tbn0.gstatictps://encrypted-tbn0.gstatic.com/images?q=tb.com/images?q=tbn%3AANd9GcSuf7y7ZaiIH4hOdjknWtigAIixaQnpCI66xQ&usqp=CAU',
                           caption: 'Levi 3',
                           width: 180.0,
                           height: 220.0,
@@ -406,7 +406,7 @@ class HomeViewState extends State<HomeView> with StateMother {
                         ),
                         SongCoverView(
                           coverImage:
-                              'https://i.pinimg.com/736x/7f/d0/62/7fd062088d057e7469a37b81aa56f619.jpg',
+                              'https://encrypted-tbn0.gstatictps://encrypted-tbn0.gstatic.com/images?q=tb.com/images?q=tbn%3AANd9GcSuf7y7ZaiIH4hOdjknWtigAIixaQnpCI66xQ&usqp=CAU',
                           caption: 'Evergreen Tamil hits',
                           width: 180.0,
                           height: 220.0,
@@ -481,7 +481,7 @@ class HomeViewState extends State<HomeView> with StateMother {
                         ),
                         SongCoverView(
                           coverImage:
-                              'https://i.gadgets360cdn.com/large/spotify_logo_1585741714525.jpg',
+                              'https://encrypted-tbn0.gstatictps://encrypted-tbn0.gstatic.com/images?q=tb.com/images?q=tbn%3AANd9GcSuf7y7ZaiIH4hOdjknWtigAIixaQnpCI66xQ&usqp=CAU',
                           caption: 'Levi 3',
                           width: 180.0,
                           height: 220.0,
@@ -652,7 +652,7 @@ class HomeViewState extends State<HomeView> with StateMother {
                         ),
                         SongCoverView(
                           coverImage:
-                              'https://i.pinimg.com/736x/7f/d0/62/7fd062088d057e7469a37b81aa56f619.jpg',
+                              'https://encrypted-tbn0.gstatictps://encrypted-tbn0.gstatic.com/images?q=tb.com/images?q=tbn%3AANd9GcSuf7y7ZaiIH4hOdjknWtigAIixaQnpCI66xQ&usqp=CAU',
                           caption: 'Evergreen Tamil hits',
                           width: 180.0,
                           height: 220.0,
