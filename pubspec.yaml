@@ -1,7 +1,7 @@
 name: spotify_main_view
-description: "Description here"
+description: "Spotify Main View."
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/spotify_main_view
 
 version: 1.0.0+1
 
